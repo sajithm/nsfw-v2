@@ -27,7 +27,7 @@ Sample Response
 ```
 
 ## Dataset
-The dataset is not included in the repository. It can be downloaded from [here](https://www.dropbox.com/s/opiqoh550jd1glb/dataset.zip?dl=0).
+The dataset is not included in the repository. ~It can be downloaded from [here](https://www.dropbox.com/s/opiqoh550jd1glb/dataset.zip?dl=0).~
 
 The test/train images were resized to fit in 0.3MP (640x480 or less). Data is split into 5 categories: SFW, NSFW-Nude, NSFW-Sex, NSFW-Risque and NSFW-Violence. Each category has 5500 images - 5000 under training and 500 under testing sets.
 
